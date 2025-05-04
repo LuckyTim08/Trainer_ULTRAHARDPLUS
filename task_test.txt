@@ -1,0 +1,11 @@
+issue date: 06.08.2008
+number of tasks: 2
+completion time: 20
+task number: 1
+task text: Очень много текста задания 1
+task time: 1
+task number: 2
+task text: Очень мало текста задания 2
+task time: 4
+0
+

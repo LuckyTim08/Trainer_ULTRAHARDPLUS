@@ -1,0 +1,7 @@
+issue date: day.month.year
+number of tasks: n
+completion time: minutes
+task number: i
+task text: text (<315)
+task time: minutes
+0
